@@ -3,7 +3,7 @@ let sizeW;
 let sizeH;
 let asciiChar = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,^`'."
 
-let video; let = vidw = 64; let = vidh = 48; let scl = 10;
+let video; let = vidw = 64; let = vidh = 48; let scl = 20;
 let w,h;
 
 function setup() {
